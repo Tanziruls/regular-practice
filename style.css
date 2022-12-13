@@ -12,7 +12,13 @@ h2{
     height: 50px;
     width: 20%;
 }
-img{width: 10%;}
+img{
+    
+    width: 10%;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;    
+}
 
 p{
     font-size: 20px;
