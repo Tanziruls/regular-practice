@@ -1,0 +1,65 @@
+
+h1{
+    color:deepskyblue;
+    background-color: dimgray;
+    height: 50px;
+    width: 300px;
+   
+}
+h2{
+    color: rgb(30, 255, 41);
+    background-color: gray;
+    height: 50px;
+    width: 20%;
+}
+img{width: 10%;}
+
+p{
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+
+#hero {
+
+   color:blue;
+}
+
+#mon{
+    
+    height: 40px;
+    width: 40%;
+    color: blue;
+    font-size: 30px;
+    }
+#ton{
+  
+    height: 40px;
+    width: 40%;
+    color: rgba(19, 39, 223, 0.897);
+    font-size: 30px;
+    }
+.okk{
+    color: darkred;
+    font-weight: 700;
+}
+
+.songs{
+    color: rgb(255, 0, 0);
+    border: 5px solid pink;
+    border-radius: 5px;
+    margin: 10px;
+}
+.fav{
+    font-weight: 700;
+    border: 5px solid blue;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 10px;
+    width: 30%;
+    text-align: justify;
+    float: left;
+    background-color: skyblue;
+
+}
+
